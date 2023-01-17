@@ -21,3 +21,11 @@ vmess://eyJhZGQiOiJobC5vb2xhb29sYS5zaXRlIiwiYWlkIjoiMCIsImFscG4iOiIiLCJob3N0Ijoi
 vless://034ec960-b8c5-4c32-95a7-11cf1dd48a38@ip.shahab.top:2053?encryption=none&security=tls&sni=ro.shahab.top&type=ws&host=ro.shahab.top&path=%2Fshahab#iSegaro-Romania
 vmess://eyJhZGQiOiIyMTMuMTU2LjE0Mi4xNTIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImhvc3QiOiJzb2Z0OTguaXIiLCJpZCI6IjNmODY0YmY2LWI5YTctNGMxNC1iYWYwLTNjNDYyNzYwZTA0ZiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjEwODUyIiwicHMiOiJsYXdpcnAiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
 vmess://3f864bf6-b9a7-4c14-baf0-3c462760e04f@213.156.142.152:10852/?type=tcp&encryption=auto&headerType=http&host=soft98.ir&path=%2F#%E2%88%85
+vless://ba1975ba-7e77-452e-95ae-2aaa1d114f4a@s5.mamalicdn.lol:443?sni=o3pu.mamalicdn.lol&security=tls&type=ws&path=/&host=o3pu.mamalicdn.lol#3-5
+vless://ba1975ba-7e77-452e-95ae-2aaa1d114f4a@s1.mamalicdn.lol:443?sni=o3pu.mamalicdn.lol&security=tls&type=ws&path=/&host=o3pu.mamalicdn.lol#3-1
+
+vless://ba1975ba-7e77-452e-95ae-2aaa1d114f4a@s2.mamalicdn.lol:443?sni=o3pu.mamalicdn.lol&security=tls&type=ws&path=/&host=o3pu.mamalicdn.lol#3-2
+
+vless://ba1975ba-7e77-452e-95ae-2aaa1d114f4a@s3.mamalicdn.lol:443?sni=o3pu.mamalicdn.lol&security=tls&type=ws&path=/&host=o3pu.mamalicdn.lol#3-3
+
+vless://ba1975ba-7e77-452e-95ae-2aaa1d114f4a@s4.mamalicdn.lol:443?sni=o3pu.mamalicdn.lol&security=tls&type=ws&path=/&host=o3pu.mamalicdn.lol#3-4
