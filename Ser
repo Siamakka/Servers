@@ -29,3 +29,19 @@ vless://ba1975ba-7e77-452e-95ae-2aaa1d114f4a@s2.mamalicdn.lol:443?sni=o3pu.mamal
 vless://ba1975ba-7e77-452e-95ae-2aaa1d114f4a@s3.mamalicdn.lol:443?sni=o3pu.mamalicdn.lol&security=tls&type=ws&path=/&host=o3pu.mamalicdn.lol#3-3
 
 vless://ba1975ba-7e77-452e-95ae-2aaa1d114f4a@s4.mamalicdn.lol:443?sni=o3pu.mamalicdn.lol&security=tls&type=ws&path=/&host=o3pu.mamalicdn.lol#3-4
+vless://ba1975ba-7e77-452e-95ae-2aaa1d114f4a@s1.mamalicdn.lol:443?encryption=none&host=irvless-obq.mamalicdn.lol&path=%2F&security=tls&sni=irvless-obq.mamalicdn.lol&type=ws#vless-ws-56
+
+vless://ba1975ba-7e77-452e-95ae-2aaa1d114f4a@s1.mamalicdn.lol:443?encryption=none&host=irvless-awq.mamalicdn.lol&path=%2F&security=tls&sni=irvless-awq.mamalicdn.lol&type=ws#vless-ws-55
+vless://ba1975ba-7e77-452e-95ae-2aaa1d114f4a@s2.mamalicdn.lol:443?sni=irvless-qnr.mamalicdn.lol&security=tls&type=ws&path=/&host=irvless-qnr.mamalicdn.lol#vlese-ws-51
+
+vless://ba1975ba-7e77-452e-95ae-2aaa1d114f4a@s3.mamalicdn.lol:443?sni=irvless-qnr.mamalicdn.lol&security=tls&type=ws&path=/&host=irvless-qnr.mamalicdn.lol#vlese-ws-52
+
+vless://ba1975ba-7e77-452e-95ae-2aaa1d114f4a@s4.mamalicdn.lol:443?sni=irvless-qnr.mamalicdn.lol&security=tls&type=ws&path=/&host=irvless-qnr.mamalicdn.lol#vlese-ws-53
+
+vless://ba1975ba-7e77-452e-95ae-2aaa1d114f4a@s5.mamalicdn.lol:443?sni=irvless-qnr.mamalicdn.lol&security=tls&type=ws&path=/&host=irvless-qnr.mamalicdn.lol#vlese-ws-54
+
+vless://ba1975ba-7e77-452e-95ae-2aaa1d114f4a@s1.mamalicdn.lol:443?sni=irvless-qnr.mamalicdn.lol&security=tls&type=ws&path=/&host=irvless-qnr.mamalicdn.lol#vless-ws-50
+
+vless://ba1975ba-7e77-452e-95ae-2aaa1d114f4a@s1.mamalicdn.lol:443?sni=irvless-awq.mamalicdn.lol&security=tls&type=ws&path=/&host=irvless-awq.mamalicdn.lol#vless-ws-45
+
+vless://ba1975ba-7e77-452e-95ae-2aaa1d114f4a@s1.mamalicdn.lol:443?sni=irvless-obq.mamalicdn.lol&security=tls&type=ws&path=/&host=irvless-obq.mamalicdn.lol#vless-ws-40
